@@ -5,6 +5,9 @@
 - [Yukiya Okuda](https://github.com/akira108) / [THE GUILD](https://github.com/orgs/theguildjp)
 
 ## Description
+First Description should be uploaded in 30days.
+
+
 Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
 
 ## Link to Prototype
