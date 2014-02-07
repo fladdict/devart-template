@@ -3,7 +3,6 @@
 ## Authors
 - Designer, Engineer [Takayuki Fukatsu](https://github.com/fladdict) / [THE GUILD](https://github.com/orgs/theguildjp)
 - Designer, Engineer [Yukiya Okuda](https://github.com/alumican) / [THE GUILD](https://github.com/orgs/theguildjp)
-- Engineer [Akira Iwaya](https://github.com/akira108) / [THE GUILD](https://github.com/orgs/theguildjp)
 
 ## Description
 First Description should be uploaded in 30days.
