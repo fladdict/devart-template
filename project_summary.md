@@ -2,7 +2,7 @@
 Insert the name of your project
 
 ## Authors
-- [https://github.com/fladdict] Takayuki Fukatsu
+- [Takayuki Fukatsu](https://github.com/fladdict)
 - Insert other author(s) name, surname, github account (one per list element)
 
 ## Description
