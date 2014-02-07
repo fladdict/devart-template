@@ -2,7 +2,8 @@
 
 ## Authors
 - [Takayuki Fukatsu](https://github.com/fladdict) / [THE GUILD](https://github.com/orgs/theguildjp)
-- [Yukiya Okuda](https://github.com/akira108) / [THE GUILD](https://github.com/orgs/theguildjp)
+- [Yukiya Okuda](https://github.com/alumican) / [THE GUILD](https://github.com/orgs/theguildjp)
+- [Akira Iwaya](https://github.com/akira108) / [THE GUILD](https://github.com/orgs/theguildjp)
 
 ## Description
 First Description should be uploaded in 30days.
