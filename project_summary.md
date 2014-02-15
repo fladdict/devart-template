@@ -1,7 +1,7 @@
 # The Giant Map
 
 ## Authors
-- Designer, Engineer [Takayuki Fukatsu](https://github.com/fladdict) / [THE GUILD](https://github.com/orgs/theguildjp)
+- Designer, Engineer [Takayuki Fukatsu](https://github.com/fladdict)
 
 ## Description
 THE GIANT MAP is an ultra-large interactive Google Map, where children can physically play.
