@@ -66,7 +66,7 @@ This is simple study that shows google satellite map. As a first step I will tra
 
 I spend more 14 years for flash. I can do everything what I want to do with it.
 However for this project, I would like to challenge something new study.
-C++ and openFrameworks seems nice. Powerful computing give me new expression that I have never done with flash.
+C++ and openFrameworks seems nice. This powerful C++ framework should give me new expression that I have never done with flash.
 
 
 
