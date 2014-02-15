@@ -8,7 +8,7 @@ THE GIANT MAP is an ultra-large interactive Google Map, where children can physi
 They can run around the floor and jump around, and this causes the map projected onto the floor to change dynamically, as if the children were Godzilla or a giant messing up the landscape. On this map, in contrast to the real world, extremely deformed physical laws are applicable. This leads to the illusion that you have grown into a giant, instead of the world shrinking down.
 
 
-## Beghind the concept
+## Behind the concept
 
 Changes in scale bring great illusion and a mysterious charm to the human mind.
 
