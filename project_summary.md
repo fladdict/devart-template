@@ -22,4 +22,4 @@ What if you changed not only the scaling, but also the scale of physical laws?
 
 
 THE GIANT MAP is a project to explore the interaction between humans and scale.
-In addition, as a sub- theme, we would like to think about "involving children in interactive art."
+In addition, as a sub- theme, I would like to think about "involving children in interactive art." SO everything should be simple and clear. 
