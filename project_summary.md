@@ -12,7 +12,8 @@ They can run around the floor and jump around, and this causes the map projected
 ## Behind the concept
 
 ![Alice in Wonderland](project_images/public_commons/alice_in_wonder_land.jpeg?raw=true "Alice in Wonderland")
-from Alice in Wonderland - PUBLIC DOMAIN
+
+image is from Alice in Wonderland - PUBLIC DOMAIN
 
 
 Changes in scale bring great illusion and a mysterious charm to the human mind.
