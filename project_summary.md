@@ -30,13 +30,6 @@ NOTE: If your project lives online you can add one or more links here. Make sure
 
 [Example Link](http://www.google.com "Example Link")
 
-## Example Code
-NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
-```
-function test() {
-  console.log("Printing a test");
-}
-```
 ## Links to External Libraries
 
 [Open Frameworks](http://www.openframeworks.cc/ "Open Frameworks")
