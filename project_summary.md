@@ -23,20 +23,3 @@ What if you changed not only the scaling, but also the scale of physical laws?
 
 THE GIANT MAP is a project to explore the interaction between humans and scale.
 In addition, as a sub- theme, we would like to think about "involving children in interactive art."
-
-
-## Link to Prototype
-NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
-
-[Example Link](http://www.google.com "Example Link")
-
-## Links to External Libraries
-
-[Open Frameworks](http://www.openframeworks.cc/ "Open Frameworks")
-
-## Images & Videos
-NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
-
-![Example Image](project_images/public_commons/alice_in_wonder_land.jpeg?raw=true "Example Image")
-
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
