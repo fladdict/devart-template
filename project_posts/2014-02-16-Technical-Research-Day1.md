@@ -64,6 +64,18 @@ This is simple study that shows google satellite map. As a first step I will tra
 
 ### OpenFrameworks
 
+I spend more 14 years for flash. I can do everything what I want to do with it.
+However for this project, I would like to challenge something new thing.
+C++ and openFrameworks seems nice.
+
+
+
+### Processing
+Time is money. For rapid skech and study. I choose processing.
+Good point of processing is that I can make something that runs on the web.
+
+
+
 
 
 
