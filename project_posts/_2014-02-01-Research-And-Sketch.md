@@ -1,4 +1,5 @@
-To start project, what I need to do first is research and sketch
+The first thing to do for new project is research and sketch.
+
 
 
 
