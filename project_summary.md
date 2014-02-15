@@ -37,6 +37,6 @@ NOTE: If your project lives online you can add one or more links here. Make sure
 ## Images & Videos
 NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
 
-![Example Image](project_images/cover.jpg?raw=true "Example Image")
+![Example Image](project_images/public_commons/alice_in_wonder_land.jpeg?raw=true "Example Image")
 
 https://www.youtube.com/watch?v=30yGOxJJ2PQ
