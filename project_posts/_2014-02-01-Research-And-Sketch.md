@@ -10,7 +10,7 @@ First I use various physical tools like paper, photo, model, blocks etc.
 
 This one is starting point. Lego man on my MacBook Screen.
 
-![Original Idea Source](../project_images/sketches/sketch_007_ipad_and_miniature2.jpg?raw=true "Example Image")
+![Original Idea Source](../project_images/sketches/sketch_006_ipad_and_miniature2.jpg?raw=true "Example Image")
 
 Miniatures on iPad and Google Map app. This photo really represents my concspt.
 
