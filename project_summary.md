@@ -1,5 +1,6 @@
 # The Giant Map
 
+
 ## Authors
 - Designer, Engineer [Takayuki Fukatsu](https://github.com/fladdict)
 
@@ -22,4 +23,7 @@ What if you changed not only the scaling, but also the scale of physical laws?
 
 
 THE GIANT MAP is a project to explore the interaction between humans and scale.
-In addition, as a sub- theme, I would like to think about "involving children in interactive art." SO everything should be simple and clear. 
+In addition, as a sub- theme, I would like to think about "involving children in interactive art." Everything should be simple and clear. 
+
+![Example Image](project_images/cover.jpg?raw=true "Example Image")
+
