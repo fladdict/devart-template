@@ -8,3 +8,4 @@ First I use various physical tools like paper, photo, model, blocks etc.
 ![Example Image](../project_images/sketches/sketch_002_tilt_shift.gif?raw=true "Example Image")
 
 Fake miniature cinemagraph taken by 5dMK3 and TiltShift Lens (No Photohop miniature effect).
+I have been taking fake miniature photos 6 years.
