@@ -30,7 +30,5 @@ First I use various physical tools like paper, photo, model, blocks etc.
 ![Original Idea Source](../project_images/sketches/sketch_008.jpg?raw=true "Example Image")
 *—Image drawing with photoshop. Uses my own photo and stock photos*
 
-test
-
 
 
