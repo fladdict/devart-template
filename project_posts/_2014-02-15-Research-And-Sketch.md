@@ -27,7 +27,8 @@ First I use various physical tools like paper, photo, model, blocks etc.
 *—Fake miniature cinemagraph taken by 5dMK3 and TiltShift Lens (No Photohop miniature effect). I have been taking fake miniature photos nearly 6 years.*
 
 
-
+![Original Idea Source](../project_images/sketches/sketch_008.jpg?raw=true "Example Image")
+*—Image drawing with photoshop. Uses my own photo and stock photos*
 
 
 
