@@ -1,14 +1,17 @@
 # The Giant Map
 
+
 ## Authors
-- Designer, Engineer [Takayuki Fukatsu](https://github.com/fladdict)
+- [Takayuki Fukatsu](https://github.com/fladdict) / Designer, Engineer 
 
 ## Description
 THE GIANT MAP is an ultra-large interactive Google Map, where children can physically play.
-They can run around the floor and jump around, and this causes the map projected onto the floor to change dynamically, as if the children were Godzilla or a giant messing up the landscape. On this map, in contrast to the real world, extremely deformed physical laws are applicable. This leads to the illusion that you have grown into a giant, instead of the world shrinking down.
+They can run around the floor and jump around, and this causes the map projected onto the floor to change dynamically, as if the children were Godzilla or a giant messing up the landscape.
 
 
 ## Behind the concept
+
+
 
 Changes in scale bring great illusion and a mysterious charm to the human mind.
 
@@ -22,4 +25,14 @@ What if you changed not only the scaling, but also the scale of physical laws?
 
 
 THE GIANT MAP is a project to explore the interaction between humans and scale.
-In addition, as a sub- theme, I would like to think about "involving children in interactive art." SO everything should be simple and clear. 
+In addition, as a sub- theme, I would like to think about "involving children in interactive art." Everything should be simple and clear. 
+
+![Alice in Wonderland](project_images/public_commons/alice_in_wonder_land.jpeg?raw=true "Alice in Wonderland")
+
+image is from Alice in Wonderland - PUBLIC DOMAIN
+
+
+
+## Links to External Libraries
+- [GoogleMaps API](https://developers.google.com/maps/documentation/javascript/ "Google Maps API")
+
