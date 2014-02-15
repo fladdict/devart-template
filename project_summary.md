@@ -11,6 +11,8 @@ They can run around the floor and jump around, and this causes the map projected
 
 ## Behind the concept
 
+![Example Image](project_images/public_commons/alice_in_wonder_land.jpeg?raw=true "Example Image")
+
 Changes in scale bring great illusion and a mysterious charm to the human mind.
 
 Very sophisticated miniatures and objects which are far too huge, both serve as the intersection between fantasy and the real world.
@@ -24,6 +26,7 @@ What if you changed not only the scaling, but also the scale of physical laws?
 
 THE GIANT MAP is a project to explore the interaction between humans and scale.
 In addition, as a sub- theme, I would like to think about "involving children in interactive art." Everything should be simple and clear. 
+
 
 ![Example Image](project_images/cover.jpg?raw=true "Example Image")
 
