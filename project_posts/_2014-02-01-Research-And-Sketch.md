@@ -1,7 +1,7 @@
 The first thing to do for new project is research and sketch.
 
-I don't want to use 
-Programming is powerful sketch tool, however coding tools and libraries restricts ideas. 
+I don't want to use XCode or Processing as the first step.
+Programming is powerful sketch tool, however coding tools and libraries restricts ideas. They define an expression. 
 
 
 ![Example Image](../project_images/sketches/sketch_002_tilt_shift.gif?raw=true "Example Image")
