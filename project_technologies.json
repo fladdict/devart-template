@@ -1,16 +1,19 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "maps"
         ],
         "platforms": [
-            "insert platforms"
+            "Arudino"
         ],
         "toolkits": [
-            "insert toolkits"
+            "openframeworks",
+            "opengl"
         ]
     },
     "themes": [
-        "insert themes"
+        "Scale",
+        "Kids",
+        "Play"
     ]
 }
