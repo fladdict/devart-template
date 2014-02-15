@@ -57,7 +57,7 @@ This is simple study that shows google satellite map. As a first step I will tra
 
 
 
-!![Google Maps Sketch]!(../project_images/sketches/sketch_009.jpg?raw=true "Example Image")
+![Google Maps Sketch]!(../project_images/sketches/sketch_009.jpg?raw=true "Example Image")
 
 *- [http://labs.theguild.jp/thegiantmap/map/](http://labs.theguild.jp/thegiantmap/map/)*
 
