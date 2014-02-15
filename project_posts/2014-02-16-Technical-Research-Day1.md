@@ -50,9 +50,9 @@ To select a technology, it's better to compare pros and cons.
 
 ### JavaScript
 
-This time I use Google Map api. I need JS for one of the my tool set.
+Yes I need Google Map api. I need JS for that.
 
-Below is simple study that shows google satellite map.
+This is simple study that shows google satellite map. As a first step I will transfer this browser screen to some other platform because JS is not good for control devices.
 
 
 
