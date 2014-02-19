@@ -35,4 +35,5 @@ image is from Alice in Wonderland - PUBLIC DOMAIN
 
 ## Links to External Libraries
 - [GoogleMaps API](https://developers.google.com/maps/documentation/javascript/ "Google Maps API")
-
+- [ofxSyphon](https://github.com/astellato/ofxSyphon)
+- [ofxVideoRecorder](https://github.com/timscaffidi/ofxVideoRecorder) for making Demo Video
