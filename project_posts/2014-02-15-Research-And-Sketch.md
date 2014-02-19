@@ -31,4 +31,5 @@ First I like using various physical tools like paper, photo, model, blocks etc.
 *—Image drawing with photoshop. Uses my own photo and stock photos*
 
 
+hmm. this entry is not displayed on the devart site... why?
 
