@@ -12,10 +12,10 @@ First and theoretically best idea is making sensor grid matrix. In this case pre
 
 This seems best if I just see positive side. Of Course there are also risks. Technical difficulty and cost!
 
-	- **PRO:** Very accurate!
-	- **PRO:** Can get pressure velocity! Not just on and off.
-	- **CON:** Seems Very Expensive.
-	- **CON:** Using analogue sensor is technically difficult.
+- **PRO:** Very accurate!
+- **PRO:** Can get pressure velocity! Not just on and off.
+- **CON:** Seems Very Expensive.
+- **CON:** Using analogue sensor is technically difficult.
 	
 	
 	
