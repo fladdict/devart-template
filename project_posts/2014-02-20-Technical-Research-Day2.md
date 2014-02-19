@@ -4,7 +4,7 @@ Technical Research again! While I study openFrameworks and C++. I also need to c
 
 To make interactive floor. I planned four approach. Each one have pros and cons.
 
-#Idea A: Pressure Sensor Matrix
+##Idea A: Pressure Sensor Matrix
 
 ![Floor Sketch](../project_images/sketches/sketch_017_plan_a.png?raw=true "Example Image")
 
@@ -19,7 +19,7 @@ This seems best if I just see positive side. Of Course there are also risks. Tec
 	
 	
 	
-#Idea B: Kinect and Open CV
+##Idea B: Kinect and Open CV
 
 ![Floor Sketch](../project_images/sketches/sketch_018_plan_b.png?raw=true "Example Image")
 
@@ -32,7 +32,7 @@ An alternative idea is using Kinnects. Its easy and cheap, but not so accurate I
 - **CON:** Multiple human's shadow prevent detecting.
 	
 	
-#Idea C: Projection from down stairs.
+##Idea C: Projection from down stairs.
 
 ![Floor Sketch](../project_images/sketches/sketch_019_plan_c.png?raw=true "Example Image")
 
@@ -49,7 +49,7 @@ Technically its accurate, but quite expensive and difficult.
 - **CON:** I need huge space for prototyping.
 	
 
-#Idea D: Kinect and Open CV
+##Idea D: Kinect and Open CV
 
 ![Floor Sketch](../project_images/sketches/sketch_020_plan_d.png?raw=true "Example Image")
 
