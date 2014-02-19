@@ -25,11 +25,11 @@ This seems best if I just see positive side. Of Course there are also risks. Tec
 
 An alternative idea is using Kinnects. Its easy and cheap, but not so accurate I think.
 
-	- **PRO:** Cheap! Just 2 to 3 kinnects.
-	- **PRO:** I can use powerful existing library like Open CV.
-	- **PRO:** Easy to test. Setup is just kinnect and projector.
-	- **CON:** Not so accurate because What I need is not position but detecting foot step.
-	- **CON:** Multiple human's shadow prevent detecting.
+- **PRO:** Cheap! Just 2 to 3 kinnects.
+- **PRO:** I can use powerful existing library like Open CV.
+- **PRO:** Easy to test. Setup is just kinnect and projector.
+- **CON:** Not so accurate because What I need is not position but detecting foot step.
+- **CON:** Multiple human's shadow prevent detecting.
 	
 	
 #Idea C: Projection from down stairs.
@@ -42,11 +42,11 @@ I use infrared LED to detect human's shadow from under the floor.
 
 Technically its accurate, but quite expensive and difficult.
 
-	- **PRO:** Very accurate.
-	- **PRO:** Just open CV! Most of technical issue is just software side.
-	- **CON:** I need massive structure. It must be hard and really expensive!
-	- **CON:** I have to think about safety, because it must be little bit higher place.
-	- **CON:** I need huge space for prototyping.
+- **PRO:** Very accurate.
+- **PRO:** Just open CV! Most of technical issue is just software side.
+- **CON:** I need massive structure. It must be hard and really expensive!
+- **CON:** I have to think about safety, because it must be little bit higher place.
+- **CON:** I need huge space for prototyping.
 	
 
 #Idea D: Kinect and Open CV
@@ -55,9 +55,9 @@ Technically its accurate, but quite expensive and difficult.
 
 Handy version of Plan A. Instead of sensor matrix, It just uses switch matrix. Its cheaper!!
 
-	- **PRO:** Very accurate I hope.
-	- **PRO:** Not so expensive.
-	- **CON:** Too many switches, making them seems to be bit tough.
+- **PRO:** Very accurate I hope.
+- **PRO:** Not so expensive.
+- **CON:** Too many switches, making them seems to be bit tough.
 
 
 
