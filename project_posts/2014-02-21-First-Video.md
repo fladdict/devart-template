@@ -6,5 +6,5 @@ This enhanced google map will be projected on the floor with pressure sensor gri
 
 When people step into the map, the map dinamically react humans move( I hope ).
 
-Now I can start phisical / device side of the project.
+Needs more optimize and improvement but anyway now I can start phisical / device side of the project.
  
