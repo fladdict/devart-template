@@ -21,7 +21,7 @@ Mid Night Shader.
 
 Toy Camera Shader.
 
-![Shader Sketch](../project_images/sketch_022_toycamera.png?raw=true "Example Image")
+![Shader Sketch](../project_images/sketches/sketch_022_toycamera.png?raw=true "Example Image")
 
 
 ```
