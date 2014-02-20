@@ -1,4 +1,4 @@
-#Technical Research / Shader
+##Technical Research / Shader
 
 Is it possible to empower an expression of the map with shaders?
 
@@ -14,12 +14,12 @@ Below is some concept sketch. Seems it works. :-)
 
 
 
-Mid Night Shader.
+###Mid Night Shader.
 
 ![Shader Sketch](../project_images/sketches/sketch_021_night_light_shader.png?raw=true "Example Image")
 
 
-Toy Camera Shader.
+###Toy Camera Shader.
 
 ![Shader Sketch](../project_images/sketches/sketch_022_toycamera.png?raw=true "Example Image")
 
