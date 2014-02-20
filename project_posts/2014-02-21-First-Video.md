@@ -1,4 +1,4 @@
-https://vimeo.com/87185118
+http://www.youtube.com/watch?v=RcKxfq5g66A&feature=youtu.be
 
 This is first version of THE GIANT MAP made with C++, open frameworks.
 
