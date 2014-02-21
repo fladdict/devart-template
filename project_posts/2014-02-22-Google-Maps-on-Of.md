@@ -8,6 +8,6 @@ Now I can use Google Map as a texture. (Previous prototype uses screen capture o
 
 Below is some sketch of Google Map Rendering Pipeline from browser to projector, its really complicated.
 
-![Awesomium](../project_images/sketches/sketch_023_awwsomium.jpg?raw=true "Example Image"))
+![Awesomium](../project_images/sketches/sketch_023_awwsomium.jpg?raw=true "Example Image")
 
 
