@@ -1,8 +1,8 @@
 Yes!!! Now Google Maps runs inside the openFrameworks!!!
 
-THe most difficult part of the software side was over!
+The most difficult part of the software side was over!
 
-I use [chromium](http://www.chromium.org/) and [awesomium](http://www.awesomium.com/) framework to embed browser inside openFrameworks app.
+I use [chromium](http://www.chromium.org/) and [awesomium](http://www.awesomium.com/) framework to embed browser inside openFrameworks app. I spend almost 2days to understand awesomium framework and implement it into the app.
 
 Now I can use Google Map as a texture. (Previous prototype uses screen capture of Google Map).
 
