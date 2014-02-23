@@ -1,10 +1,16 @@
+http://www.youtube.com/watch?v=_-2G54bUTvU&feature=youtu.be
+
 Yes now my Google Map has timeline and still very fast!
 
 Pretty cool isn't ie?
 
-http://www.youtube.com/watch?v=_-2G54bUTvU&feature=youtu.be
+To express change of time, I implemented lookup table  blender shader.
 
-'''
+It blends two lookup table like midnight lookup table and morning lookup talbe.
+
+Another shader I made is night light shader. It detects city structure and dim them. :-)
+
+```
 #version 120
 
 //Original Image to Render
@@ -29,4 +35,4 @@ void main()
     
     gl_FragColor = lookupCol0 * (1-interpolation) + lookupCol1 * interpolation;
 }
-'''
+```
