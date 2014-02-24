@@ -4,10 +4,10 @@ Now I also need to consider device side and exhibition its self.
 
 There are four more things I need to consider
 
-	*Making Interactive Floor
-	*Projection Mapping Test
-	*Making final concept video
-	*Plan for exhibition
+- Making Interactive Floor
+- Projection Mapping Test
+- Making final concept video
+- Plan for exhibition
 	
 Today I quicky researchded mac configulation for museum.
 	
