@@ -22,7 +22,7 @@ Following links are resource that I quickly googled.
 I thinks MUST READ for all DevArt challengers.
 
 
-[http://vormplus.be/blog/article/configuring-mac-os-x-for-interactive-installations](http://vormplus.be/blog/article/configuring-mac-os-x-for-interactive-installations)
+[Configuring mac os x- for interactive installations](http://vormplus.be/blog/article/configuring-mac-os-x-for-interactive-installations)
 
 [How to Energy Schedule Your Museum Macs](http://www.dssw.co.uk/blog/2011/03/16/how-to-energy-schedule-your-museum-macs/)
 
