@@ -1,6 +1,6 @@
 Now lets start device side!
 
-Previously I drew for technical concept sketch for interactive floor system.
+Previously I drew for technical concept sketches and pro-con lists for interactive floor system.
 
 I choose plan d for prototyping, because its cheaper and technically easy compared to other plans.
 
