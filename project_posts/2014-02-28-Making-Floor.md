@@ -1,4 +1,4 @@
-Now lets start device side!
+Now let's start device side!
 
 Previously I drew for technical concept sketches and pro-con lists for interactive floor system.
 
