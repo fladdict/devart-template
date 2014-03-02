@@ -11,6 +11,8 @@ What we are making now is sensor tiles for interactive instillation.
 
 The biggest challenge of this part is accuracy. By sandwiching MDF tile and sponge sheet. We gonna make rapid and cheap prototype for snsor floor.
 
+While he is making tiles I will prepare projector mount system.
+
 
 ![Exhibition Sketch](../project_images/sketches/sketch_031.jpg?raw=true "Example Image")
 
