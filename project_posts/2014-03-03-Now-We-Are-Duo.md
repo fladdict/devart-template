@@ -1,6 +1,6 @@
 Akira Iwaya joined the project. Now we are duo.
 
-He just finished his final paper graduated university. He is holiday and he can help me now.
+He just finished his final paper and graduated university. He is holiday and he can help me now.
 
 He will manage erectric and mechanical part of project. I will consider software part.
 
