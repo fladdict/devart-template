@@ -12,5 +12,5 @@ So there are two plan.
  - Makking 4 - 9 tiles for proof of concept prototype.
  - Also try another approach e.g. laser sensor for alternative choice.
  
- What we should do is not just finishing our artwork until dead line, but showing possibility and showing proof of concept and technology for the exhibition.
+What we should do is not just finishing our artwork until dead line, but showing possibility and showing proof of concept and technology for the exhibition.
  
