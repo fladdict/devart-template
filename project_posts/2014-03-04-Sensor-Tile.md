@@ -5,7 +5,8 @@ Just made first prototype interactive tile!!!
 Seems woks lovely.
 
 
-Problem is time and cost. Making 25-36 tiles until 3/28 is not practical.
+Problem is time and cost. 
+But Making 25-36 tiles until 3/28 is not so practical.
 
 So there are two plan.
 
@@ -14,3 +15,4 @@ So there are two plan.
  
 What we should do is not just finishing our artwork until dead line, but showing possibility and showing proof of concept and technology for the exhibition.
  
+If we win the conpetition, budget will solve this problem.
