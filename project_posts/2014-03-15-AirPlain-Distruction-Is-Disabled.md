@@ -1,6 +1,6 @@
-As a minor feature, THE GIANT MAP has stamp to explode airplain.
+As a minor feature, THE GIANT MAP has "stamp to explode airplain" feature.
 
-I just disabled this feature. 
+I just disabled this one. 
 
 The aim of this easter egg feature is to enhance feeling of being big monster.
 
