@@ -21,6 +21,7 @@ Below is what we learnd from this experiment.
  - For bigger projection mapping, seems I need more bigger resolution artwork.
  - Focus and resolution of projection is very important.
  - It means I need new fast Mac Pro and multiple projectors.
+ - Also I need more and more bigger room if possible!
  - Technically our plan works! Financially I need to win the contest.
  
 
