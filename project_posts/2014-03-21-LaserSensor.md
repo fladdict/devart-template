@@ -1,33 +1,19 @@
-More projection mapping test.
+Now we are testing laser sensor detection instead of switching tile.
 
-Now our artworks is 2 square meters! You can imagine how it works in final 5m squares!
+Switching tile works well however making tile is very time consuming and not proactical for competition period.
 
+We need to explorer another possibility as well.
 
+Followings are some possibilities of making interactive floor.
 
-https://www.youtube.com/watch?v=UlQ7pC714m0&feature=youtu.be
-
-Bigger map test.
-
-
-https://www.youtube.com/watch?v=dE6h8Uzrgbo&feature=youtu.be
-
-Fast forwarded time shader and auto location changer test.
-
-
-Below is what we learnd from this experiment.
-
- - Tile sensor is too time consuming to make for bigger instillation.
- - Map zoom level that looks good in monitor and that looks good in floor projection are different. Its better to have settings panel.
- - For bigger projection mapping, seems I need more bigger resolution artwork.
- - Focus and resolution of projection is very important.
- - It means I need new fast Mac Pro and multiple projectors.
- - Also I need more and more bigger room if possible!
- - Technically our plan works! Financially I need to win the contest.
+ - Physical tile switch. Time consuming not practical for competition period.
+ - Laser range sensor. Not accurate for multiple object but fast.
+ - Buying tile floor sensor. Its so expensice may be possible plan if we win the competition.
+ - OpenCV from down stairs. Its accurate and fast but not practical for prototyping. Because its need huge physical stracture.
  
+As a research we did physical tile switch and we proofed it works.
 
-For final artwork we changed our plan to use laser range sensor, not physical switch sensor.
+Next now we are trying laser range sensor plan. Also we are contacting to floor sensor company.
 
-
-![Exhibition Sketch](../project_images/sketches/sketch_036.jpg?raw=true "Example Image")
-
-![Exhibition Sketch](../project_images/sketches/sketch_037.jpg?raw=true "Example Image")
+We don't want to restrict posibilities of the art work in this moment.
+ 
