@@ -1,6 +1,8 @@
 While Akira is reseraching laser sensor, I'm still tuning shader and aethetic part of the map.
 
-Now google map is really beautiful! Below is some example.
+Now google map is really beautiful! 
+
+Below is some example we did.
 
 All location is randomly displayed through exhibition term, I think.
 
