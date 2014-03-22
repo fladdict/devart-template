@@ -1,6 +1,6 @@
 While Akira is reseraching laser sensor, I'm still tuning shader and aethetic part of the map.
 
-Now google map is really beautiful! 
+Original Google Maps satellite images are bit too dull. Now google map is really beautiful! Every scene is vivid and striking.
 
 Below is some example we did.
 
