@@ -1,19 +1,51 @@
-Now we are testing laser sensor detection instead of switching tile.
+Finally we converted all switches to laser range sensors as planned.
 
-Switching tile works well however making tile is very time consuming and not proactical for competition period.
+It was great challenge because we could spend only two days for that.
 
-We need to explorer another possibility as well.
 
-Followings are some possibilities of making interactive floor.
+## Challange of Laser Range Sensor
 
- - Physical tile switch. Time consuming not practical for competition period.
- - Laser range sensor. Not accurate for multiple object but fast.
- - Buying tile floor sensor. Its so expensice may be possible plan if we win the competition.
- - OpenCV from down stairs. Its accurate and fast but not practical for prototyping. Because its need huge physical stracture.
- 
-As a research we did physical tile switch and we proofed it works.
+The point of the laser sensor is that it returns value not with grid array style data but angle and distance with fan shaped area.
 
-Next now we are trying laser range sensor plan. Also we are contacting to floor sensor company.
+The first thing we had to do is convert fan shaped data to grid shaped data. This part is not so difficult just sin / cos issue.
 
-We don't want to restrict posibilities of the art work in this moment.
- 
+Second and difficult part is detecting foot area from blob grid arary point with blob detection.
+
+At first we used OpenCV for blob detection. 
+
+
+
+## Obstacles
+
+However we found two problems.
+
+One is that what we need is just blob position but detecting moment and location of step impacts.
+
+Another problem is speed. Open CV image processing was not fast as we desired.
+
+Therefore we descided to make our own region finder program.
+
+
+## Result
+
+However we found two problems.
+
+One is that what we need is just blob position but detecting moment and location of step impacts.
+
+Another problem is speed. Open CV image processing was not fast as we desired.
+
+Therefore we descided to make our own region finder program.
+
+
+
+
+## The hardest challange is over!
+
+Now we will start video making for our presentation.
+
+
+![Exhibition Sketch](../project_images/sketches/sketch_035.png?raw=true "Example Image")
+
+
+
+
