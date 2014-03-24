@@ -13,6 +13,7 @@ Second and difficult part is detecting foot area from blob grid arary point with
 
 At first we used OpenCV for blob detection. 
 
+![Exhibition Sketch](../project_images/sketches/sketch_047.jpg?raw=true "Example Image")
 
 
 ## Obstacles
@@ -37,6 +38,7 @@ Another problem is speed. Open CV image processing was not fast as we desired.
 Therefore we descided to make our own region finder program.
 
 
+![Exhibition Sketch](../project_images/sketches/sketch_048.jpg?raw=true "Example Image")
 
 
 ## The hardest challange is over!
@@ -44,7 +46,7 @@ Therefore we descided to make our own region finder program.
 Now we will start video making for our presentation.
 
 
-![Exhibition Sketch](../project_images/sketches/sketch_035.png?raw=true "Example Image")
+
 
 
 
