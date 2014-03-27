@@ -1,0 +1,25 @@
+<panel>
+	<Node_Friction>0.95</Node_Friction>
+	<Spring_K>0.1</Spring_K>
+	<Node_ShakeFriction>0.95</Node_ShakeFriction>
+	<Lines_Visible>0</Lines_Visible>
+	<Lines_Brightness_MIN>50</Lines_Brightness_MIN>
+	<Lines_Brightness_MAX>75</Lines_Brightness_MAX>
+<panel/>
+	<UnknownName>Browser</UnknownName>
+	<Mouse_Move_Shake>0</Mouse_Move_Shake>
+	<Step_Force>280</Step_Force>
+	<Force_Clamp>12</Force_Clamp>
+	<Shake_Force>500</Shake_Force>
+	<Shake_Force_Clamp>10</Shake_Force_Clamp>
+	<Interpolation>0</Interpolation>
+	<Browser_Control_Mode>0</Browser_Control_Mode>
+	<Wireframe_Mode>0</Wireframe_Mode>
+<Haze_Alpha>1.4013e-44</Haze_Alpha>
+	<Auto_Location_Move>0.1</Auto_Location_Move>
+<Explosion>1</Explosion>
+	<Spark_Num>50</Spark_Num>
+	<Smoke_Num>10</Smoke_Num>
+	<Show_Wireframe>0</Show_Wireframe>
+	<Show_Sensors>0</Show_Sensors>
+</panel>

@@ -1,0 +1,32 @@
+<SENSOR0>
+    <POSITION>
+            <X>-0.1</Z>
+            <Y>-0.1</Y>
+    </POSITION>
+    <ROTATION>45</ROTATION>
+    <ADDRESS>192.168.0.10</ADDRESS>
+    <PORT>10940</PORT>
+</SENSOR0>
+
+<SENSOR1>
+    <POSITION>
+        <X>2.1</Z>
+        <Y>2.1</Y>
+    </POSITION>
+    <ROTATION>225</ROTATION>
+    <ADDRESS>192.168.0.10</ADDRESS>
+    <PORT>10940</PORT>
+</SENSOR1>
+
+<SENSOR_GRID>
+    <POSITION>
+        <X>0</X>
+        <Y>0</Y>
+    </POSITION>
+    <WIDTH>2</WIDTH>
+    <HEIGHT>2</HEIGHT>
+    <SENSOR_GRID_NUM_X>101</GRID_NUM_X>
+    <SENSOR_GRID_NUM_Y>101</GRID_NUM_Y>
+    <TILE_GRID_NUM_X>31</GRID_NUM_X>
+    <TILE_GRID_NUM_Y>31</GRID_NUM_Y>
+</SENSOR_GRID>
