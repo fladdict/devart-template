@@ -47,8 +47,8 @@ image is from Alice in Wonderland - PUBLIC DOMAIN
 
 http://youtu.be/KOLrxZcWxqI
 
-![Exhibition Sketch](../project_images/sketches/sketch_035.png?raw=true "Example Image")
+![Exhibition Sketch](project_images/sketches/sketch_035.png?raw=true "Example Image")
 Exhibition Plan
 
-![Exhibition Sketch](../project_images/sketches/sketch_046.jpg?raw=true "Example Image")
+![Exhibition Sketch](project_images/sketches/sketch_046.jpg?raw=true "Example Image")
 Google Map with clouds, haze, day and night effect
