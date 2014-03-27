@@ -9,6 +9,8 @@
 THE GIANT MAP is an ultra-large interactive Google Map, where children can physically play.
 They can run around the floor and jump around, and this causes the map projected onto the floor to change dynamically, as if the children were Godzilla or a giant messing up the landscape.
 
+http://youtu.be/KOLrxZcWxqI
+
 
 ## Behind the concept
 
