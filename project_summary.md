@@ -7,8 +7,7 @@
 
 ## Description
 THE GIANT MAP is an ultra-large interactive Google Map, where children can physically play.
-They can run around the floor and jump around, and this causes the map projected onto the floor to change dynamically, as if the children were Godzilla or a giant messing up the landscape.
-
+They can run around the floor and jump around, and this causes the map projected onto the floor to change dynamically, as if the children were Godzilla or a giant messing up the landscape. Google map is also aesthetically enhanced several weather and sunlight effect.
 
 
 
@@ -52,3 +51,9 @@ Exhibition Plan
 
 ![Exhibition Sketch](project_images/sketches/sketch_046.jpg?raw=true "Example Image")
 Extended Google Map with clouds, haze, day and night effect
+
+
+![Shader Sketch](project_images/sketches/sketch_024_nightshader.jpg?raw=true "Example Image")
+Extended Google Map with night shader.
+
+
