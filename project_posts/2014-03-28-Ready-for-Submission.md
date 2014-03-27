@@ -37,7 +37,7 @@ As a risk management, I uploaded two versions for the final submission. One is f
   - -: Zoom Out
 
 
-## Future todo after competition
+## Future TODO after competition
  
  - Push embedded params and strings to external settings file.
  - More sound effect management.
