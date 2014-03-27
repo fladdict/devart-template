@@ -24,7 +24,7 @@ As a risk management, I uploaded two versions for the final submission. One is f
  - My friend reported that shader doesn't work with Macbook Air. (I think shader version issue), it works on Macbook Pro 2013.
  
  
- ##Shortcut for debug and tuning.
+##Shortcut for debug and tuning.
  
   - Tab: Shows setting panel
   - 0-9: Location shortcut.
