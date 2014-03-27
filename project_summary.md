@@ -51,4 +51,4 @@ http://youtu.be/KOLrxZcWxqI
 Exhibition Plan
 
 ![Exhibition Sketch](project_images/sketches/sketch_046.jpg?raw=true "Example Image")
-Google Map with clouds, haze, day and night effect
+Extended Google Map with clouds, haze, day and night effect
