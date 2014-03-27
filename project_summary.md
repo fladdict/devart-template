@@ -9,7 +9,7 @@
 THE GIANT MAP is an ultra-large interactive Google Map, where children can physically play.
 They can run around the floor and jump around, and this causes the map projected onto the floor to change dynamically, as if the children were Godzilla or a giant messing up the landscape.
 
-http://youtu.be/KOLrxZcWxqI
+
 
 
 ## Behind the concept
@@ -41,3 +41,14 @@ image is from Alice in Wonderland - PUBLIC DOMAIN
 - [ofxSyphon](https://github.com/astellato/ofxSyphon)
 - [AWesomium](http://www.awesomium.com/) for running Chrome brower inside openFrameworks.
 - [URL Library](http://urgnetwork.sourceforge.net/html_ja/index.html) opensource Law level laser sensor library provided by sensor manufacturer.
+
+
+## Images & Videos
+
+http://youtu.be/KOLrxZcWxqI
+
+![Exhibition Sketch](../project_images/sketches/sketch_035.png?raw=true "Example Image")
+Exhibition Plan
+
+![Exhibition Sketch](../project_images/sketches/sketch_046.jpg?raw=true "Example Image")
+Google Map with clouds, haze, day and night effect
