@@ -1,14 +1,14 @@
-This is some document for competition Judgimng Panel
+This is some document for competition Judging Panel
 
 I hope it is useful for someone who try this.
 
 
 
 ## Final artworks files
-As a risk management, I uploaded two versions for final submission. One is for instillation with sensor unit, the other is standalone desktop version.
+As a risk management, I uploaded two versions for the final submission. One is for instillation with sensor unit, the other is standalone desktop version.
 
- - [Final artwork with laser sensor](https://github.com/fladdict/devart-template/tree/master/project_code/openframeworks/TheGiantMap) may not work without sensor unit.
- - [Final artwork - desktop standalone](https://github.com/fladdict/devart-template/tree/master/project_code/openframeworks/TheGiantMap_with_sensor) stable and good for desktop judging environment.
+ - [Final artwork with laser sensor](https://github.com/fladdict/devart-template/tree/master/project_code/openframeworks/TheGiantMap) May not work without sensor unit.
+ - [Final artwork - desktop standalone](https://github.com/fladdict/devart-template/tree/master/project_code/openframeworks/TheGiantMap_with_sensor) Stable and good for desktop judging environment.
 
 
 ## Work and Build Environment
@@ -18,9 +18,8 @@ As a risk management, I uploaded two versions for final submission. One is for i
  - All libraries are included into project (I wish).
  
 
-##Known Issues
+## Issues to Know
 
- 
  - App is made with Openframeworks 0.8, to complie it place the folder inside openframeworks app folder.
  - My friend reported that shader doesn't work with Macbook Air. (I think shader version issue), it works on Macbook Pro 2013.
  
@@ -36,3 +35,12 @@ As a risk management, I uploaded two versions for final submission. One is for i
   - W: Wireframe debug mode
   - +: Zoom In
   - -: Zoom Out
+
+
+## Future todo after competition
+ 
+ - Push embedded params and strings to external settings file.
+ - More sound effect management.
+ - GUI for Laser Unit position configulation for instillation.
+ - Auto restart and setup script for instillation.
+ - VNC or other remote desktop setup.
