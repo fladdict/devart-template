@@ -43,4 +43,5 @@ As a risk management, I uploaded two versions for the final submission. One is f
  - More sound effect management.
  - GUI for Laser Unit position configulation for instillation.
  - Auto restart and setup script for instillation.
- - VNC or other remote desktop setup.
+ - VNC or other remote desktop setup for instillation risk management.
+ - Setup document for instillation stuff for risk management.
