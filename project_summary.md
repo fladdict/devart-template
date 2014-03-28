@@ -34,7 +34,18 @@ In addition, as a sub- theme, I would like to think about "involving children in
 image is from Alice in Wonderland - PUBLIC DOMAIN
 
 
-## DEMO
+## Prototypes
+- [Physic Prototype](http://labs.theguild.jp/thegiantmap/sketches/sketch01/)
+- [Own Browser AddOn](https://github.com/fladdict/devart-template/tree/master/project_code/openframeworks/prototypes/AwesomiumStudy)
+- [Color Map Shader](https://github.com/fladdict/devart-template/tree/master/project_code/openframeworks/prototypes/ColorMapShader)
+- [Color Map Shader2](https://github.com/fladdict/devart-template/tree/master/project_code/openframeworks/prototypes/ShaderStudy2)
+- [Particle Engine](https://github.com/fladdict/devart-template/tree/master/project_code/openframeworks/prototypes/ofxGLDParticle)
+- [Physic Engine](https://github.com/fladdict/devart-template/tree/master/project_code/openframeworks/prototypes/ofxGLDSpring) din't use for final
+- [Laser Sensor Mapper](https://github.com/fladdict/devart-template/tree/master/project_code/openframeworks/prototypes/ofxRangeSensor)
+- [Own Laser Sensor AddOn](https://github.com/fladdict/devart-template/tree/master/project_code/openframeworks/prototypes/URGTest)
+
+
+## Working DEMO
 - [Stand alone DEMO](https://dl.dropboxusercontent.com/u/262233/the_giant_map_executable_desktop_standalone.zip)
 
 
