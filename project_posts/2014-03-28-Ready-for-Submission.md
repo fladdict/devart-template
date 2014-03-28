@@ -16,7 +16,9 @@ As a risk management, I uploaded two versions for the final submission. One is f
  - Openframeworks 0.8.
  - XCode 5.0 or later
  - All libraries are included into project (I wish).
- 
+ - For unknown reason you need to build project twice to make it stable.
+  - Build project with setting Build Phases' Copy Files Destination as Frameworks.
+  - Build project again with setting Build Phases' Copy Files Destination as Executables.
 
 ## Issues to Know
 
