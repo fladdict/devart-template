@@ -34,6 +34,9 @@ In addition, as a sub- theme, I would like to think about "involving children in
 image is from Alice in Wonderland - PUBLIC DOMAIN
 
 
+## DEMO
+- [Stand alone DEMO](https://dl.dropboxusercontent.com/u/262233/the_giant_map_executable_desktop_standalone.zip)
+
 
 ## Links to External Libraries
 - [GoogleMaps API](https://developers.google.com/maps/documentation/javascript/ "Google Maps API")
