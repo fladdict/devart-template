@@ -8,7 +8,7 @@ I hope it is useful for someone who try this.
 As a risk management, I uploaded two versions for the final submission. One is for instillation with sensor unit, the other is standalone desktop version.
 
  - [Final artwork with laser sensor](https://github.com/fladdict/devart-template/tree/master/project_code/openframeworks/TheGiantMap) May not work without sensor unit.
- - [Final artwork - desktop standalone](https://github.com/fladdict/devart-template/tree/master/project_code/openframeworks/TheGiantMap_with_sensor) Stable and good for desktop judging environment.
+ - [Final artwork - desktop standalone](https://github.com/fladdict/devart-template/tree/master/project_code/openframeworks/TheGiantMap_without_sensor) Stable and good for desktop judging environment.
 
 
 ## Work and Build Environment
