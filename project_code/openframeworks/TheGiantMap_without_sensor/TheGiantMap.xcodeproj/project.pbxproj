@@ -93,7 +93,7 @@
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = "";
-			dstSubfolderSpec = 6;
+			dstSubfolderSpec = 10;
 			files = (
 				BBAB23CB13894F3D00AA2426 /* GLUT.framework in CopyFiles */,
 				3D7423C518B26FB500EE5083 /* Syphon.framework in CopyFiles */,
@@ -800,9 +800,8 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1)",
-					/Users/fukatsutakayuki/Documents/of/of_v0.8.0_osx_release/addons/ofxSyphon/libs/Syphon/lib/osx,
-					/Users/fukatsutakayuki/Documents/of/of_v0.8.0_osx_release/apps/myApps/TheGiantMap/libs/awesomium,
-					/Users/fukatsutakayuki/Documents/of/of_v0.8.0_osx_release/apps/myApps/TheGiantMap_without_sensor/libs/ofxSyphon/libs/Syphon/lib/osx,
+					libs/awesomium,
+					libs/ofxSyphon/libs/Syphon/lib/osx,
 				);
 				FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1 = "\"$(SRCROOT)/../../../libs/glut/lib/osx\"";
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -889,9 +888,8 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1)",
-					/Users/fukatsutakayuki/Documents/of/of_v0.8.0_osx_release/addons/ofxSyphon/libs/Syphon/lib/osx,
-					/Users/fukatsutakayuki/Documents/of/of_v0.8.0_osx_release/apps/myApps/TheGiantMap/libs/awesomium,
-					/Users/fukatsutakayuki/Documents/of/of_v0.8.0_osx_release/apps/myApps/TheGiantMap_without_sensor/libs/ofxSyphon/libs/Syphon/lib/osx,
+					libs/awesomium,
+					libs/ofxSyphon/libs/Syphon/lib/osx,
 				);
 				FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1 = "\"$(SRCROOT)/../../../libs/glut/lib/osx\"";
 				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
