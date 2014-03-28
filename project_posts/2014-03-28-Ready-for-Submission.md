@@ -16,7 +16,7 @@ As a risk management, I uploaded two versions for the final submission. One is f
  - Openframeworks 0.8.
  - XCode 5.0 or later
  - All libraries are included into project (I wish).
- - To bouild project install [Awesomium](http://www.awesomium.com/)
+ - To build project install [Awesomium](http://www.awesomium.com/)
  
 
 ## Issues to Know
