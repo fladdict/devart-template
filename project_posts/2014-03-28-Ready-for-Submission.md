@@ -7,7 +7,7 @@ I hope it is useful for someone who try this.
 ## Final artworks files
 As a risk management, I uploaded two versions for the final submission. One is for instillation with sensor unit, the other is standalone desktop version.
 
- - [Instillation with laser sensor](https://github.com/fladdict/devart-template/tree/master/project_code/openframeworks/TheGiantMap) May not work without sensor unit. [Binary and datas](https://github.com/fladdict/devart-template/tree/master/project_code/openframeworks/TheGiantMap/bin)
+ - [Instillation with laser sensor](https://github.com/fladdict/devart-template/tree/master/project_code/openframeworks/TheGiantMap) May not work without sensor unit. 
  - [Desktop Demo](https://github.com/fladdict/devart-template/tree/master/project_code/openframeworks/TheGiantMap_without_sensor) Stable and good for desktop judging environment. [Binary and datas](https://github.com/fladdict/devart-template/tree/master/project_code/openframeworks/TheGiantMap_without_sensor/bin).
 
 
@@ -16,6 +16,7 @@ As a risk management, I uploaded two versions for the final submission. One is f
  - Openframeworks 0.8.
  - XCode 5.0 or later
  - All libraries are included into project (I wish).
+ - To build project install [Awesomium](http://www.awesomium.com/)
  
 
 ## Issues to Know
