@@ -37,11 +37,11 @@ image is from Alice in Wonderland - PUBLIC DOMAIN
 ## Prototypes
 - [Physic Prototype](http://labs.theguild.jp/thegiantmap/sketches/sketch01/)
 - [Own Browser AddOn](https://github.com/fladdict/devart-template/tree/master/project_code/openframeworks/prototypes/AwesomiumStudy)
-- [Color Map Shader](https://github.com/fladdict/devart-template/tree/master/project_code/openframeworks/prototypes/ColorMapShader)
-- [Color Map Shader2](https://github.com/fladdict/devart-template/tree/master/project_code/openframeworks/prototypes/ShaderStudy2)
-- [Particle Engine](https://github.com/fladdict/devart-template/tree/master/project_code/openframeworks/prototypes/ofxGLDParticle)
-- [Physic Engine](https://github.com/fladdict/devart-template/tree/master/project_code/openframeworks/prototypes/ofxGLDSpring) din't use for final
-- [Laser Sensor Mapper](https://github.com/fladdict/devart-template/tree/master/project_code/openframeworks/prototypes/ofxRangeSensor)
+- [Color Map Shader Prototype](https://github.com/fladdict/devart-template/tree/master/project_code/openframeworks/prototypes/ColorMapShader)
+- [Color Map Shader2 Prototype](https://github.com/fladdict/devart-template/tree/master/project_code/openframeworks/prototypes/ShaderStudy2)
+- [Particle Engine Prototype](https://github.com/fladdict/devart-template/tree/master/project_code/openframeworks/prototypes/ofxGLDParticle)
+- [Physic Engine Prototype](https://github.com/fladdict/devart-template/tree/master/project_code/openframeworks/prototypes/ofxGLDSpring) din't use for final
+- [Laser Sensor Mapper Prototype](https://github.com/fladdict/devart-template/tree/master/project_code/openframeworks/prototypes/ofxRangeSensor)
 - [Own Laser Sensor AddOn](https://github.com/fladdict/devart-template/tree/master/project_code/openframeworks/prototypes/URGTest)
 
 
@@ -53,7 +53,7 @@ image is from Alice in Wonderland - PUBLIC DOMAIN
 - [GoogleMaps API](https://developers.google.com/maps/documentation/javascript/ "Google Maps API")
 - [ofxSyphon](https://github.com/astellato/ofxSyphon)
 - [AWesomium](http://www.awesomium.com/) for running Chrome brower inside openFrameworks.
-- [URL Library](http://urgnetwork.sourceforge.net/html_ja/index.html) opensource Law level laser sensor library provided by sensor manufacturer.
+- [URG Library](http://urgnetwork.sourceforge.net/html_ja/index.html) opensource Law level laser sensor library provided by sensor manufacturer.
 
 
 ## Images & Videos
