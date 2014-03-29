@@ -5,9 +5,9 @@ I hope it is useful for someone who try this.
 
 
 ## Final artworks files
-As a risk management, I uploaded two versions for the final submission. One is for instillation with sensor unit, the other is standalone desktop version.
+As a risk management, I uploaded two versions for the final submission. One is for installation with sensor unit, the other is standalone desktop version.
 
- - [Instillation with laser sensor](https://github.com/fladdict/devart-template/tree/master/project_code/openframeworks/TheGiantMap) May not work without sensor unit. 
+ - [Installation with laser sensor](https://github.com/fladdict/devart-template/tree/master/project_code/openframeworks/TheGiantMap) May not work without sensor unit. 
  - [Desktop Demo](https://github.com/fladdict/devart-template/tree/master/project_code/openframeworks/TheGiantMap_without_sensor) Stable and good for desktop judging environment. [Excutable Demo](https://dl.dropboxusercontent.com/u/262233/the_giant_map_executable_desktop_standalone.zip).
 
 
