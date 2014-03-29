@@ -5,7 +5,7 @@ He just finished his final paper and graduated university. He is holiday and he 
 He will manage erectric and mechanical part of project. I will consider software part.
 
 
-What we are making now is sensor tiles for interactive instillation.
+What we are making now is sensor tiles for interactive installation.
 
 16 switches are set under the floor tile and send on/off data via arudino.
 
