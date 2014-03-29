@@ -43,7 +43,7 @@ As a risk management, I uploaded two versions for the final submission. One is f
  
  - Push embedded params and strings to external settings file.
  - More sound effect management.
- - GUI for Laser Unit position configulation for instillation.
- - Auto restart and setup script for instillation.
- - VNC or other remote desktop setup for instillation risk management.
- - Setup document for instillation stuff for risk management.
+ - GUI for Laser Unit position configulation for installation.
+ - Auto restart and setup script for installation.
+ - VNC or other remote desktop setup for installation risk management.
+ - Setup document for installation stuff for risk management.
