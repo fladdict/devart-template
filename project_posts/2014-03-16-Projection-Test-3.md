@@ -16,7 +16,7 @@ Fast forwarded time shader and auto location changer test.
 
 Below is what we learnd from this experiment.
 
- - Tile sensor is too time consuming to make for bigger instillation.
+ - Tile sensor is too time consuming to make for bigger installation.
  - Map zoom level that looks good in monitor and that looks good in floor projection are different. Its better to have settings panel.
  - For bigger projection mapping, seems I need more bigger resolution artwork.
  - Focus and resolution of projection is very important.
